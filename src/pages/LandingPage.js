@@ -1,6 +1,7 @@
 import * as React from 'react';
-import Gallary from '~/components/Gallary'
-// import '~/App.css'
+
+import '../App.css'
+import Gallary from '../components/Gallary'
 
 export default function LandingPage() {
     return (
